@@ -1,5 +1,4 @@
-# POWERBI
-🚖 Uber Data Analysis – Power BI Project
+ Uber Data Analysis – Power BI Project
 
 An end-to-end Power BI dashboard built using 150K+ real-world Uber ride records. Leveraged data cleaning, modeling, DAX measures, and visualization techniques to uncover key operational, customer, and revenue insights.
 
