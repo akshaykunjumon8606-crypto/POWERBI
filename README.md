@@ -1,59 +1,89 @@
- Uber Data Analysis – Power BI Project
+Uber Data Analysis – Power BI Project
+Overview
 
-An end-to-end Power BI dashboard built using 150K+ real-world Uber ride records. Leveraged data cleaning, modeling, DAX measures, and visualization techniques to uncover key operational, customer, and revenue insights.
+This project is an end-to-end data analytics dashboard built using Power BI on 150K+ real-world Uber ride records. The goal was to analyze ride-hailing business operations and generate actionable insights related to revenue, customer behavior, and service performance.
 
-🔍 Features
+Objectives
 
-Completed vs. Lost Bookings
+Perform data cleaning and transformation
 
-Monthly & Quarterly Revenue Trends
+Build data models using relationships and DAX measures
 
-Vehicle-wise Performance (Auto, Bike, Go Mini, Sedan…)
+Visualize business metrics using interactive dashboards
 
-Customer Segmentation: First-Time, Return, Regular
+Extract operational and customer insights
 
-Payment Method Analysis (UPI, Cash, Card, Wallet)
+Dashboard Features
 
-Customer & Driver Ratings
+✅ Completed vs Lost Bookings Analysis
 
-High-Demand Locations & Peak Time Slots
+✅ Monthly and Quarterly Revenue Trends
 
-Cancellation Reasons & Operational Issues
+✅ Vehicle Type Performance (Auto, Bike, Go Mini, Sedan, etc.)
 
-Total Distance & Vehicle-wise Travel Volume
+✅ Customer Segmentation (First-Time, Return, Regular)
 
-📊 Key Insights
+✅ Payment Method Distribution (UPI, Cash, Card, Wallet)
 
-Auto, Bike, and Go Mini are top revenue contributors
+✅ Driver and Customer Rating Analysis
 
-UPI is the most preferred payment method
+✅ Location-wise Demand Heat Insights
 
-Peak demand occurs between 6 AM–12 PM
+✅ Peak Time Demand Detection
 
-Khandsa, Barakhamba, and Saket are major high-demand zones
+✅ Cancellation Reason Analysis
 
-Strong completion rate across key vehicle types
+✅ Distance Travel and Vehicle-wise Usage
 
-💡 Recommendations
+Key Insights
 
-Improve processes in high-cancellation areas
+🚗 Auto, Bike, and Go Mini contribute the most revenue
 
-Increase driver allocation during peak hours
+📱 UPI is the most preferred payment method
+
+🌅 Highest ride demand occurs between 6 AM – 12 PM
+
+📍 Major high-demand zones include Khandsa, Barakhamba, and Saket
+
+⭐ Completion rate is strong across main vehicle categories
+
+Business Recommendations
+
+Improve operations in high-cancellation regions
+
+Optimize driver availability during peak hours
 
 Enhance customer experience based on rating patterns
 
-Prioritize high-demand routes and best-performing vehicles
+Focus marketing strategies on high-value customer segments
 
-Use customer segmentation for targeted retention
+Implement demand forecasting for better resource allocation
 
-Apply forecasting for efficient driver allocation
+Tools & Technologies
 
-🧠 Skills Demonstrated
+Power BI
 
-Power BI (DAX, Modeling, Relationships, Drilldowns)
+DAX (Data Analysis Expressions)
 
 Data Cleaning & Transformation
 
-Understanding of ride-hailing business operations
+Data Modeling & Visualization
 
-Insight-driven storytelling and dashboard design
+Skills Demonstrated
+
+Business Intelligence Dashboard Development
+
+Analytical Thinking and Problem Solving
+
+Data Storytelling
+
+Understanding Ride-Hailing Industry Metrics
+
+Future Enhancements
+
+Add predictive demand forecasting models
+
+Integrate real-time ride data
+
+Improve customer churn prediction analysis
+
